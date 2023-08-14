@@ -1,0 +1,9 @@
+Package: fyi.zxcvbn.redditosversionspoof
+Name: RedditOSVersionSpoof
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Spoofs iOS version to iOS 14.8 to make RedditFilter work on newer Reddit versions
+Author: zxcvbn
+Maintainer: zxcvbn
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
